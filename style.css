@@ -11,23 +11,44 @@ body {
   background: #ffffff;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
-.maindescription {
-  background: rgb(97, 68, 84);
-  margin: 20px;
-  padding: 40px;
+.aside {
+  width: 370px;
+  background: #3f2c3b;
 }
-.block-2 {
-  background: rgb(61, 42, 61);
-  margin: 20px;
-  padding: 20px;
+.cv-photo {
+  margin: 25px 0 0 0;
 }
-li {
-  color: rgb(61, 42, 61);
+.header-secondary {
+  color: #ffffff;
 }
-
-h2 {
-  color: black;
+.contact-links {
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 14px;
 }
-.description {
-  color: blue;
+.bold {
+  font-weight: 700;
+}
+.list-secondary {
+  color: #cfafcf;
+  font-size: 14px;
+  line-height: 24px;
+  margin-left: 0;
+  padding-left: 0;
+  list-style-position: inside;
+}
+.list-secondary-item {
+  color: #ffffff;
+}
+.contact-block {
+  margin-top: 51px;
+  margin-left: 40px;
+}
+.tech-skills-block {
+  margin-top: 47px;
+  margin-left: 40px;
+}
+.soft-skills-block {
+  margin-top: 47px;
+  margin-left: 40px;
 }
