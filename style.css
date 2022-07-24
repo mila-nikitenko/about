@@ -1,0 +1,33 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background: #d1d3d6;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  width: 1200px;
+  margin: 0 auto;
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.maindescription {
+  background: rgb(97, 68, 84);
+  margin: 20px;
+  padding: 40px;
+}
+.block-2 {
+  background: rgb(61, 42, 61);
+  margin: 20px;
+  padding: 20px;
+}
+li {
+  color: rgb(61, 42, 61);
+}
+
+h2 {
+  color: black;
+}
+.description {
+  color: blue;
+}
